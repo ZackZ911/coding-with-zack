@@ -15,4 +15,5 @@ WHITE = (255, 255, 255)
 clock = pygame.time.Clock()
 
 print("imgay")
+print("Test 123")
 
